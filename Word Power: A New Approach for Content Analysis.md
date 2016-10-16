@@ -1,5 +1,5 @@
 # Literature Information
--Title: "Word Power: A New Approach for Content Analysis"
+- Title: "Word Power: A New Approach for Content Analysis"
 
 # Abstract
 
@@ -22,3 +22,5 @@ Content analysis
 ## Overview
 - Determine the strength of various words in conveying negative or positive tone that is particularly suitable for finance and accounting
 applications
+
+
